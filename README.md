@@ -1,4 +1,4 @@
-# App Notas v1
+# App Notas v2
 
 Ejercicio "App Notas" realizado para curso de Programación FullStack con Node y React, dictados por Fundación Formar y Digital House.
 
